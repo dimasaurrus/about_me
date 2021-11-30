@@ -8,8 +8,8 @@
   </samp>
 </p>
 <ul>
-<!-- 	<li>🔭 I’m currently working on <a href="https://www.jukesolutions.com/">Juke Solutions</a> (Full-Time Remote)</li> -->
-	<li>🌱 I’m currently learning about Blockchain</li>
+<!-- 	<li>🔭 I’m currently working for my self</a> (Full-Time Remote)</li> -->
+	<li>🌱 I’m currently learning about web3</li>
 	<li>💬 Ask me about Python, Odoo, Django, Web Scraping</li>
 	<li>📫 How to reach me: dimasaurrus@gmail.com</li>
 	<li>😄 Pronouns: He/His</li>
